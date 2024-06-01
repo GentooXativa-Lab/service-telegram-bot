@@ -12,6 +12,7 @@
   "author": "Jose Vicente Giner Sanchez",
   "license": "MIT",
   "dependencies": {
-    "debug": "^4.3.5"
+    "debug": "^4.3.5",
+    "dotenv": "^16.4.5"
   }
 }
