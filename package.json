@@ -1,0 +1,17 @@
+{
+  "name": "service-telegram-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot component for my homelab service mesh",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "telegram"
+  ],
+  "author": "Jose Vicente Giner Sanchez",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^4.3.5"
+  }
+}
